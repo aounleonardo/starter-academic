@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Leonardo Aoun
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Travelling Codesman
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Facebook
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A software engineer constantly on the run.
 
 interests:
+- Extended Reality
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Decentralized Systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master's in Computer Science
+    institution: Ecole Polytechnique Fédérale de Lausanne
+    year: 2020
+  - course: Exchange Program in Computer Engineering
+    institution: University of Washington
+    year: 2017
+  - course: Bachelor's in Computer Science
+    institution: Ecole Polytechnique Fédérale de Lausanne
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,32 +44,30 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aounleonardo96@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/aounleonardo
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aounleonardo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/leonardoaoun/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A software engineer constantly on the run.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I lived in 8 regions across 3 continents in the last 3 years which taught me to be a sociable and open-minded person. Inspired by science and always eager to discover and invent.

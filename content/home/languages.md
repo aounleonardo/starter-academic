@@ -3,41 +3,53 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Skills"
+title = "Languages"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "🇱🇧"
+  icon_pack = "emoji"
+  name = "Lebanese Arabic"
+  description = "Native"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = "🇬🇧"
+  icon_pack = "emoji"
+  name = "English"
+  description = "Bilingual"
+
+[[feature]]
+  icon = "🇫🇷"
+  icon_pack = "emoji"
+  name = "French"
+  description = "Bilingual"
+
+[[feature]]
+  icon = "🇩🇪"
+  icon_pack = "emoji"
+  name = "German"
+  description = "Conversational"
+
+[[feature]]
+  icon = "🇪🇸"
+  icon_pack = "emoji"
+  name = "Spanish"
+  description = "Conversational"
+
+[[feature]]
+  icon = "🇮🇹"
+  icon_pack = "emoji"
+  name = "Italian"
+  description = "Beginner"
+
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
